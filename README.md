@@ -1,3 +1,5 @@
+# FNN-Solver
+
 FNN-Solver is a software to compute the First Nearest Neighbour of a point with either a serial or a parallel implementation, using MPI.
 
 For compilation, simply run make_project.sh from the current directory.
